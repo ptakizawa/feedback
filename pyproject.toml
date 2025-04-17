@@ -24,5 +24,5 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-https://github.com/ptakizawa/feedback
-https://github.com/ptakizawa/feedback/issues
+"https://github.com/ptakizawa/feedback"
+"https://github.com/ptakizawa/feedback/issues"
